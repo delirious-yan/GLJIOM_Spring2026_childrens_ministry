@@ -1,4 +1,4 @@
-# Spring 2026 Children's Ministry Curriculum (GLJIOM)
+# GLJIOM Children's Ministry Lesson Plan
 
 A responsive, easy-to-use dashboard developed for the Spring 2026 Children's Ministry at GLJIOM. It organizes our 8-week curriculum spanning themes of Disobedience, Forgiveness (Romans 4:7-8), Miracles of Jesus, and Easter (Death & Resurrection).
 
